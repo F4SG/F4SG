@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/franco-salas-gutierrez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:franco.salasgutierrez@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/franco-andres-salas-gutierrez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:franco.salasgutierrez@outlook.com"><img src="https://img.shields.io/badge/franco.salasgutierrez%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Bolivia-Santa%20Cruz%20de%20la%20Sierra-2F74C0?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
