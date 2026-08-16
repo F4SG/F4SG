@@ -54,7 +54,7 @@ Estudiante de **Ingeniería de Sistemas Informáticos** en la Universidad del Va
 
 ### 🚀 Proyectos destacados
 
-- 🖥️ **[Sistema Águila](#)** — *Desarrollador Full-Stack / Arquitecto del Sistema*
+- 🖥️ **Sistema Águila** — *Desarrollador Full-Stack / Arquitecto del Sistema*
   Sistema de gestión de inventarios construido con C# y SQL Server, desde requerimientos arquitectónicos hasta diagramación Gantt.
 
 - 💈 **[Barbería Pluscode](https://github.com/F4SG/Barber-a-Pluscode.git)** — *Desarrollador Frontend*
