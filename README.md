@@ -92,13 +92,6 @@ Estudiante de **Ingeniería de Sistemas Informáticos** en la Universidad del Va
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=F4SG&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F4SG&layout=compact&hide_border=true"/>
-</p>
-
 <p align="center">
   <em>Trabajo en equipo · Resolución de problemas · Organización y gestión del tiempo · Adaptabilidad</em>
 </p>
